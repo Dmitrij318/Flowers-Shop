@@ -30,3 +30,14 @@ body {
 
 .borders {text-decoration: none;}
 .borders:hover {text-decoration: underline;}
+
+.registration {
+    display: flex;
+    justify-content: flex-end;
+    padding: 10px;
+}
+
+.buttons {
+    font-size: 15px;
+    border-radius: 10px;
+}
