@@ -1,0 +1,32 @@
+body {
+    background: url("../Files/img/55fe6360af4bb7088ffe103af0dbcbf3.jpg") no-repeat;
+    background-size: 1540px;
+    height: 1500px;
+    text-align: center;
+}
+
+.title {
+    font-size: 77px;
+    /* background: url("../Files/img/1617616682_5-p-oboi-belie-tyulpani-buket-5.jpg"); */
+    background-size: 295px;
+    color: hotpink;
+    margin: 40px;
+    width: auto;
+    padding: 40px;
+}
+
+.parag {
+    line-height: 30px;
+    padding: 15px;
+    font-family: cursive;
+    color: white;
+}
+
+.borders {
+    margin: 28px;
+    text-align: left;
+    cursor: pointer;
+}
+
+.borders {text-decoration: none;}
+.borders:hover {text-decoration: underline;}
