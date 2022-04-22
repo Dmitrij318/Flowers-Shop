@@ -13,6 +13,7 @@ body {
     margin: 40px;
     width: auto;
     padding: 40px;
+    animation: title 10s infinite linear;
 }
 
 .parag {
