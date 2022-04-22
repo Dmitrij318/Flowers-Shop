@@ -1,0 +1,73 @@
+body {
+    background: url("../Jelena-Flora/img/55fe6360af4bb7088ffe103af0dbcbf3.jpg") no-repeat;
+    background-size: 1540px;
+    height: 1500px;
+    text-align: center;
+}
+
+.title {
+    font-size: 77px;
+    background: url("../Jelena-Flora/img/1617616682_5-p-oboi-belie-tyulpani-buket-5.jpg");
+    background-size: 295px;
+    color: hotpink;
+    margin: 40px;
+    width: auto;
+    padding: 40px;
+}
+.parag {
+    line-height: 30px;
+    padding: 15px;
+    font-family: cursive;
+    color: white;
+}
+.vision1 {
+    width: 200px;
+    height: 170px;
+    margin: 15px;
+    display: inline-block;
+    background-color: #c9769c;
+    border-radius: 50px;
+    box-shadow: 0px 0px 10px 10px #6b940b;
+    line-height: 5px;
+    padding: 8px;
+}
+.vision2 {
+    width: 200px;
+    height: 170px;
+    margin: 15px;
+    display: inline-block;
+    background-color: #6b940b;
+    border-radius: 50px;
+    box-shadow: 0px 0px 10px 10px #bd5dcd;
+    line-height: 5px;
+    padding: 8px;
+}
+    
+.vision3 {
+    width: 200px;
+    height: 170px;
+    margin: 15px;
+    display: inline-block;
+    background-color: #bd5dcd;
+    border-radius: 50px;
+    box-shadow: 0px 0px 10px 10px #e5bd46;
+    line-height: 5px;
+    padding: 8px;
+}
+    
+.vision4 {
+    width: 200px;
+    height: 170px;
+    margin: 15px;
+    display: inline-block;
+    background-color: #e5bd46;
+    border-radius: 50px;
+    box-shadow: 0px 0px 10px 10px #c9769c;
+    line-height: 5px;
+    padding: 8px;
+}
+
+.borders {
+    margin: 28px;
+    text-align: left;
+}
